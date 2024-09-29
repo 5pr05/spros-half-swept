@@ -1,5 +1,5 @@
 # Spros Half-Swept
-	A custom version of the [Sweep](https://github.com/davidphilipbarr/Sweep).
+A custom version of the [Sweep](https://github.com/davidphilipbarr/Sweep).
 
 | Front | Back |
 | --- | --- |
@@ -39,5 +39,5 @@ The goal of this build is to create a compact, low-profile keyboard that offers:
 
 ## License & Credits
 
-The Spros Half-Swept design retains the [SOLDERPAD HARDWARE LICENSE](https://github.com/davidphilipbarr/Sweep/blob/main/LICENSE).
+The Spros Half-Swept design retains the [SOLDERPAD HARDWARE LICENSE](https://github.com/davidphilipbarr/Sweep/blob/main/LICENSE).  
 I would like to express my gratitude to all contributors of the Sweep project for their valuable contributions.
