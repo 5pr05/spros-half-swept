@@ -18,7 +18,7 @@ Spros Half-Swept is a split keyboard based on the Ferris Sweep Half-Swept, which
 | Pin Connectors 2.54mm                                   | Aliexpress |
 | O Rings OD 6mm ID 2mm                                   | Aliexpress |
 | Magnetic Cable Connector + type C plug 2 pcs            | Aliexpress |
-| Neodymium Magnets 5x2mm, 10 pcs                         | Aliexpress |
+| Neodymium Magnets 8x2mm, 10 pcs                         | Aliexpress |
 | Kailh Choc Purpz (Purple) Switches                      | splitkb    |
 | Blank MBK Choc black Keycaps (10 × 1u)                  | splitkb    |
 | MBK PBT Coloured Blank lavender Keycaps (2 x 1u convex) | splitkb    |
