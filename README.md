@@ -7,6 +7,8 @@ A custom version of the [Sweep](https://github.com/davidphilipbarr/Sweep).
 
 Spros Half-Swept is a split keyboard based on the Ferris Sweep Half-Swept, which, in turn, is half of the Sweep2 modified for a reversible microcontroller footprint.
 
+[Spros Half-Swept Case](https://www.printables.com/model/1087752-c453)
+
 ## 5PR05 53TUP:
 
 | Part                                                    | Order from |
