@@ -38,7 +38,7 @@ The goal of this build is to create a compact, low-profile keyboard that offers:
 - Practicality
 - Reusable components
 - Easy portability
-- Dual connectivity (Bluetooth and wired options)
+- Bluetooth connectivity
 
 ## License & Credits
 
