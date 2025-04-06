@@ -16,27 +16,24 @@ Spros Half-Swept is a split keyboard based on the Ferris Sweep Half-Swept, which
 | ------------------------------------------------------- | ---------- |
 | PCB                                                     | JLCPCB     |
 | Case                                                    | JLCPCB     |
-| NRF52840 Controller                                     | Aliexpress |
-| 110mAh Li-Po 2 pcs                                      | Aliexpress |
-| Pin Connectors 2.54mm                                   | Aliexpress |
-| O Rings OD 6mm ID 2mm                                   | Aliexpress |
-| Magnetic Cable Connector + type C plug 2 pcs            | Aliexpress |
-| M2 insernut (xx len), 8 pcs                             | Aliexpress |
-| M2 screws with small head (xx len), 8 pcs               | Aliexpress |
+| NRF52840 Controller 2 pcs                                 | Aliexpress |
+| 500mAh Li-Po 20x30x5mm 2 pcs                         | Aliexpress |
+| JST-XH Battery Connector Male and Female 2 pcs            | Aliexpress |
+| M2 insernut (xx len), 10 pcs                             | Aliexpress |
+| M2 screws with small head (xx len), 10 pcs               | Aliexpress |
 | Neodymium Magnets 8x2mm, 10 pcs                         | Aliexpress |
-| Kailh Choc Purpz (Purple) Switches                      | splitkb    |
-| Blank MBK Choc black Keycaps (10 × 1u)                  | splitkb    |
-| MBK PBT Coloured Blank lavender Keycaps (2 x 1u convex) | splitkb    |
-| MBK PBT Coloured Blank violet Keycaps (2 x 1u convex)   | splitkb    |
+| Kailh Choc Brown Switches 34 pcs                     | AliExpress    |
+| Blank MBK Choc Keycaps 1u 32 pcs                    | AliExpress    |
+| Blank MBK Choc Keycaps 1u homing 2 pcs                 | AliExpress    |
 | Reset Buttons b3u, on/off switch msk12c02               | AliExpress |
-| Mill-Max Hot Swap Sockets / Pack of 40 (7305)           | splitkb    |
+| Mill-Max Hot Swap Sockets 68 pcs                        | AliExpress    |
 
 The goal of this build is to create a compact, low-profile keyboard that offers:
 - Affordability
 - Stylish design
 - Comfort
 - Practicality
-- Reusable components
+- Hotswap
 - Easy portability
 - Bluetooth connectivity
 
