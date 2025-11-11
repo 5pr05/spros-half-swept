@@ -23,7 +23,6 @@ Spros Half-Swept is a split keyboard based on the Ferris Sweep Half-Swept, which
 | Kailh Choc Switches                                     | 34 pcs   |
 | Blank MBK Choc Keycaps 1u                               | 34 pcs   |
 | Reset Buttons b3u, on/off switch msk12c02               | 2 pcs    |
-| Mill-Max Hot Swap Sockets                               | 68 pcs   |
 | TRRS jack                                               | 2 pcs    |
 | Folding laptop feet                                     | 2 pcs    |
 
